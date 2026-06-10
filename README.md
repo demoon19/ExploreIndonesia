@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>🌐 Explore Jogja - IOFest Untar</h1>
-  <h3>🧭 Tourism Website | 🎯 Web Development Competition Project</h3>
+  <h1>🌏 Explore Indonesia</h1>
+  <h3>🧭 Tourism Website | 🎯 Portfolio Project</h3>
   <p>
-    <em>A beautifully crafted tourism website showcasing the charm of Yogyakarta, Indonesia.</em>
+    <em>A beautifully crafted tourism website to help travelers explore and discover the wonders of Indonesia.</em>
   </p>
 </div>
 
@@ -10,14 +10,15 @@
 
 ## 📖 About the Project
 
-**Explore Jogja** is a tourism website designed to highlight the cultural and scenic beauty of **Yogyakarta, Indonesia**.  
-Developed for the **IOFest UNTAR Web Design Competition**, this project presents:
+**Explore Indonesia** is a tourism website born to help travelers **explore and get to know Indonesia** more deeply.
 
-- 🗺️ Popular destinations  
-- 🍜 Traditional cuisines  
-- 🏨 Local accommodations  
+This project presents:
 
-With a **smooth video background**, **responsive layout**, and **user-friendly navigation**, this website offers visitors an immersive and engaging experience.
+- 🗺️ Popular destinations across Indonesia
+- 🍜 Traditional and local cuisines
+- 🏨 Accommodation recommendations
+
+With a **smooth video background**, **responsive layout**, and **user-friendly navigation**, this website offers visitors an immersive and engaging experience of Indonesia's beauty.
 
 ---
 
@@ -25,43 +26,41 @@ With a **smooth video background**, **responsive layout**, and **user-friendly n
 
 | 💻 Frontend | 🎨 Styling | ⚙️ Interaction |
 |------------|------------|----------------|
-| `HTML5`    | `Bootstrap`| `Vanilla JavaScript` |
+| `HTML5`    | `CSS3`     | `Vanilla JavaScript` |
 
 ---
 
 ## 🖼️ Screenshots
 
-<img src="https://github.com/SiAnakAlim/Lomba-IOFest-Untar/blob/master/image/foto1.png" alt="Homepage" width="100%"/>
-<img src="https://github.com/SiAnakAlim/Lomba-IOFest-Untar/blob/master/image/foto2.png" alt="Destinations" width="100%"/>
-<img src="https://github.com/SiAnakAlim/Lomba-IOFest-Untar/blob/master/image/foto3.png" alt="Culinary" width="100%"/>
+> *Coming soon...*
 
 ---
 
 ## 🔗 Live Demo & Repository
 
-> 🌍 **Live Preview**  
-> 🔗 [Explore Jogja Website](https://sianakalim.github.io/Lomba-IOFest-Untar/homepage.html)
+> 🌍 **Live Preview**
+> 🔗 [Explore Indonesia Website](#)
 
-> 📁 **GitHub Repository**  
-> 🔗 [Lomba-IOFest-Untar](https://github.com/SiAnakAlim/Lomba-IOFest-Untar)
+> 📁 **GitHub Repository**
+> 🔗 [Explore Indonesia](https://github.com/demoon19)
 
 ---
 
 ## 📌 Features
 
-- 🎥 Background video landing page  
-- 📱 Fully responsive design  
-- 🌐 Multi-section navigation (Destinations, Culinary, Accommodations)  
+- 🎥 Background video landing page
+- 📱 Fully responsive design
+- 🌐 Multi-section navigation (Destinations, Culinary, Accommodations)
 - 📷 Beautiful imagery and clean layout
 
 ---
 
 ## 🙌 Author
 
-👨‍💻 GitHub: [@SiAnakAlim](https://github.com/SiAnakAlim)
+👨‍💻 GitHub: [@demoon19](https://github.com/demoon19)
 
 📫 Feel free to contact me if you want to collaborate or have any suggestions!
 
 ---
 
-> 🚀 *"Promoting the beauty of Yogyakarta through modern web design."*
+> 🌏 *"Helping travelers discover the hidden gems and rich culture of Indonesia through modern web design."*
